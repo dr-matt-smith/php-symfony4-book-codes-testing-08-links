@@ -1,0 +1,8 @@
+TAP version 13
+ok 1 - App\Tests\Controller\DefaultControllerTest::testHomepageResponseCodeOkay
+ok 2 - App\Tests\Controller\DefaultControllerTest::testHomepageContentContainsHomePage
+ok 3 - App\Tests\Controller\DefaultControllerTest::testAboutPageContentContainsAbout
+ok 4 - App\Tests\Controller\DefaultControllerTest::testPublicPagesContainBasicText with data set #0 ('/', 'home page')
+ok 5 - App\Tests\Controller\DefaultControllerTest::testPublicPagesContainBasicText with data set #1 ('/about', 'about')
+ok 6 - App\Tests\Controller\DefaultControllerTest::testHomePageLinkToAboutWorks
+1..6
